@@ -56,6 +56,7 @@ morse_chart = {
 
 
 def main():
+    # get the username with uppercase letters
     text = input("Enter text to convert to morse code: ").upper()
 
     morse_code = ""
