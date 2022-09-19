@@ -76,5 +76,4 @@ def main():
     print("Your morse code is", morse_code)
 
 
-if __name__ == "__main__":
-    main()
+main()
