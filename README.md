@@ -1,8 +1,10 @@
-# Text to morse code converter
+Morse code converter
 
-This program get a text from user and convert it to Morse code from built in dictionary and print it to the user.
+Text to Morse code converter built using python.
 
 ## Description
+
+After getting user input the program convert each letter to morse code using built in morse chart. 
 
 ### Preview
 
