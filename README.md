@@ -26,9 +26,6 @@ $ git clone (https://github.com/lasanthamudalige/text-to-morse-code-converter.gi
 
 # Go into the repository
 $ cd text-to-morse-code-converter/
-
-# To install all dependencies
-$ pip install -r requirements.txt
 ```
 
 
